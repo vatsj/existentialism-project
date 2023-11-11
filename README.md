@@ -7,7 +7,7 @@ revisiting this 4 years later cuz I'm weirdly proud of it
 - I assume 8+ but forget :/
 - JRE + JDK (idk the difference but)
 
-## How to run: [execute the .jar] (https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Run-JAR-file-example-windows-linux-ubuntu)
+## How to run: [execute the .jar](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Run-JAR-file-example-windows-linux-ubuntu)
 - double-clicking in file manager/finder/... should auto-run
 - in terminal, `java -jar existentialism.jar`
 
